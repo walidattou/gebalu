@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Building, MapPin, Calendar, Download, Filter, Search, ChevronDown, ExternalLink, Phone, MessageCircle } from 'lucide-react';
+import { Building, MapPin, Calendar, Download, Filter, Search, ChevronDown, Phone, MessageCircle } from 'lucide-react';
 import Navbar from '../componants/navbar';
 import Footer from '../componants/footer';
 

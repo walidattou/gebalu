@@ -1,5 +1,4 @@
-import { useState } from 'react';
-import { Sun, Droplets, Thermometer, Battery, Gauge, Users, Settings, CheckCircle, Zap, Leaf, Phone, MessageCircle } from 'lucide-react';
+import { Sun, Droplets, Thermometer, Gauge, Users, Settings, CheckCircle, Leaf, Phone, MessageCircle } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import Navbar from '../componants/navbar';
 import Footer from '../componants/footer';

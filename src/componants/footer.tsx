@@ -63,7 +63,7 @@ const Footer: React.FC = () => {
                 'Chauffe-eau solaire',
                 'Panneaux photovoltaïques',
                 'Service après-vente'
-              ].map((service, index) => (
+              ].map((service) => (
                 <li key={service} className="text-gray-300 text-sm sm:text-base">
                   <span className="inline-block transform hover:translate-x-1 hover:scale-105 transition-all duration-300">
                     {service}
